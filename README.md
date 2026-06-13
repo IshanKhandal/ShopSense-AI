@@ -67,6 +67,20 @@ The project uses the UCI Online Retail Dataset containing:
 * Regular Buyers
 * Low-Engagement Customers
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### Recommendations
+
+![Recommendations](assets/recommendations.png)
+
+### Customer Segmentation
+
+![Segments](assets/segments.png)
+
 ## Future Improvements
 
 * Real-time Recommendation API
