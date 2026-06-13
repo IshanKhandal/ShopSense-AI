@@ -81,6 +81,7 @@ The project uses the UCI Online Retail Dataset containing:
 
 ![Segments](assets/segments.png)
 
+
 ## Future Improvements
 
 * Real-time Recommendation API
